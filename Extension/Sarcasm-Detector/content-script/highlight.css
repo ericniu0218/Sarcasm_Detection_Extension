@@ -1,0 +1,7 @@
+/* content-script/highlight.css */
+.sarcasm-highlight {
+    background-color: yellow; /* or any color you prefer */
+    border: 1px solid red;
+    padding: 2px;
+  }
+  

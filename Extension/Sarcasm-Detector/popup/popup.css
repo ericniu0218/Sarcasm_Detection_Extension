@@ -1,0 +1,44 @@
+body {
+    width: 300px; /* or any desired width */
+    height: auto; /* you can also fix a height if you want */
+    padding: 10px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    margin: 10px;
+  }
+  h1 {
+    font-size: 16px;
+    margin-bottom: 8px;
+  }
+  textarea {
+    box-sizing: border-box; 
+    
+    width: 100%;
+    
+    max-width: 100%; 
+     
+    
+    resize: both;          
+  }
+  
+  button {
+    background-color: #b3d9ff; /* light blue shade */
+    color: #000;              /* black text */
+    border: 1px solid #999;   /* optional border */
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+  /* popup.css */
+#title {
+    border: 2px solid blue;   /* Blue border */
+    padding: 8px;            /* Some breathing room around the text */
+    display: inline-block;    /* So the border fits snug around the text */
+    margin-bottom: 10px;      /* Spacing below the heading */
+  }
+  
+  #result {
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 13px;
+  }
+  
